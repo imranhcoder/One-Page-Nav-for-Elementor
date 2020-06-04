@@ -2,6 +2,7 @@
 one page nav for Elementor pro smoth scroll navigation menu
 
 # include customize for custom css
+~~
 /*header main menu style*/
 .header-section ul li:last-child a {
     border: 1px solid #fff;
@@ -24,3 +25,4 @@ one page nav for Elementor pro smoth scroll navigation menu
 		border:0;
 	}
 }
+~~
